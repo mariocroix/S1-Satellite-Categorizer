@@ -23,4 +23,3 @@ Satellite Categorizer is a C-based program that organizes and analyzes informati
 - Categorize satellites based on name, purpose, country, agency, orbit type, launch date, and more.
 - Explore statistics and rankings of satellites using provided queries.
 - Efficiently handle large datasets with dynamic arrays and hashmaps.
-# prompt3
