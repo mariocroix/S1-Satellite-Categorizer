@@ -6,10 +6,10 @@ Satellite Categorizer is a C-based program that organizes and analyzes informati
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mariocroix/Satellite-Categorizer.git
+   git clone https://github.com/mariocroix/S1-Satellite-Categorizer.git
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Satellite-Categorizer
+   cd S1-Satellite-Categorizer
 3. **Build the Program:**
    ```bash
    make
